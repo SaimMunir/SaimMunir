@@ -26,13 +26,6 @@ I specialize in **Salesforce development**, helping businesses **optimize their 
 
 ---
 
-### 📊 GitHub Stats  
-
-![Saim Munir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaimMunir&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaimMunir&layout=compact&theme=radical)  
-
----
-
 ### 🚀 Tech Stack  
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)  
