@@ -46,7 +46,7 @@ In my free time, you’ll find me playing **competitive FPS & open-world games**
 
 ### 📫 Let's Connect!  
 
-💼 **[LinkedIn](www.linkedin.com/in/saim-munir)** | 📧 **[Email](saimmunir532@gmail.com)** | 🌐 **[Portfolio](https://www.figma.com/proto/6R2yMfvfn2py5l3amstHSC/Saim-Munir-Salesforce-Portfolio?page-id=0%3A1&node-id=8-35489&p=f&viewport=962%2C1037%2C0.13&t=I73axZxGdqbuM5lW-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=8%3A35489)**  
+💼 **[LinkedIn](https://www.linkedin.com/in/saim-munir)** | 📧 **[Email](mailto:your-saimmunir532@gmail.com)** | 🌐 **[Portfolio](https://www.figma.com/proto/6R2yMfvfn2py5l3amstHSC/Saim-Munir-Salesforce-Portfolio?page-id=0%3A1&node-id=8-35489&p=f&viewport=962%2C1037%2C0.13&t=I73axZxGdqbuM5lW-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=8%3A35489)**  
 
 ---
 
