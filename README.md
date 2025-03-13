@@ -7,7 +7,7 @@ I specialize in **Salesforce development**, helping businesses **optimize their 
 ---
 
 ### 🎓 Salesforce Certifications  
-🏅 **Salesforce Certified Administrator**  
+🏅 **Salesforce Certified Administrator**   
 🏅 **Salesforce Certified Platform Developer I**  
 🏅 **Agentforce Certified Expert**  
 
