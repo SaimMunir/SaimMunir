@@ -42,7 +42,7 @@ Apart from Salesforce, I have a **keen interest in chess, politics, and business
 
 In my free time, you’ll find me playing **competitive FPS & open-world games** like GTA, Valorant, CS, COD, and Doom.  
 
----
+--- 
 
 ### 📫 Let's Connect!  
 
