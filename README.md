@@ -4,6 +4,8 @@ I am a **Salesforce Engineer** and **MuleSoft Integration Specialist** based in 
 
 Currently, I deliver end-to-end Salesforce solutions and modernize legacy systems using MuleSoft Anypoint Platform.
 
+👉 **Check out my Portfolio:** [saim-munir-portfolio.vercel.app](https://saim-munir-portfolio.vercel.app/)
+
 ### 🚀 What I'm Working On
 - 🔭 **Enterprise Integrations:** Connecting Salesforce (Sales/Service/Experience Cloud) with external systems (like SAP & Paylocity) using REST/SOAP APIs and MuleSoft.
 - 🤖 **AI Automation:** Implementing **Einstein GPT** and **Agentforce** for intelligent lead scoring and case automation.
@@ -33,6 +35,7 @@ Currently, I deliver end-to-end Salesforce solutions and modernize legacy system
 * **Salesforce Certified Administrator**
 
 ### 📫 Connect with me
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-000?style=for-the-badge&logo=vercel&logoColor=white)](https://saim-munir-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saim_Munir-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saim-munir/)
 [![Email](https://img.shields.io/badge/Email-saimmunir532%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saimmunir532@gmail.com)
 
