@@ -1,53 +1,39 @@
-# Hi, I'm Saim Munir! 👋  
-  
-## 🚀 Salesforce Developer | Consultant  
+# Hi there, I'm Saim Munir! 👋
 
-I specialize in **Salesforce development**, helping businesses **optimize their CRM solutions** and enhance their **automation workflows**. With hands-on expertise in **Apex, LWC, APIs, and Salesforce integrations**, I deliver scalable and efficient solutions tailored to business needs.  
+I am a **Salesforce Engineer** and **MuleSoft Integration Specialist** based in **Pakistan**. With over 3 years of experience, I specialize in designing scalable CRM solutions and orchestrating complex system integrations using **API-led architecture** and **Event-Driven designs**.
 
----
+Currently, I deliver end-to-end Salesforce solutions and modernize legacy systems using MuleSoft Anypoint Platform.
 
-### 🎓 Salesforce Certifications  
-🏅 **Salesforce Certified Administrator**   
-🏅 **Salesforce Certified Platform Developer I**  
-🏅 **Agentforce Certified Expert**  
+### 🚀 What I'm Working On
+- 🔭 **Enterprise Integrations:** Connecting Salesforce (Sales/Service/Experience Cloud) with external systems (like SAP & Paylocity) using REST/SOAP APIs and MuleSoft.
+- 🤖 **AI Automation:** Implementing **Einstein GPT** and **Agentforce** for intelligent lead scoring and case automation.
+- ⚙️ **DevOps:** Managing CI/CD pipelines with Git, Jenkins, and Salesforce CLI (SFDX).
 
----
+### 🛠️ Technical Stack
 
-### 🔹 What I Do:
-- 🛠 **Custom Salesforce Development** (Apex, LWC, Flows)
-- 🔗 **Integration & Automation** (APIs, Webhooks, RPA)
-- 📊 **Salesforce Optimization** (Performance, Security, Best Practices)
-- 🏆 **Consulting & Strategy** (Tailored Solutions for Business Growth)
+**Salesforce Ecosystem:**
+![Apex](https://img.shields.io/badge/Apex-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![LWC](https://img.shields.io/badge/LWC-Lightning_Web_Components-87CEEB?style=flat-square&logo=lightning&logoColor=black)
+![Flows](https://img.shields.io/badge/Flows-Automation-0047BA?style=flat-square)
+![SOQL](https://img.shields.io/badge/SOQL-Data_Query-brightgreen?style=flat-square)
 
-### 🔹 Why Work With Me?
-✅ **Client-Centric Approach:** Focused on delivering value-driven solutions  
-✅ **Scalability & Efficiency:** Building future-proof Salesforce applications  
-✅ **Automation & Productivity:** Reducing manual effort with smart workflows  
+**MuleSoft & Integration:**
+![MuleSoft](https://img.shields.io/badge/MuleSoft-Anypoint_Platform-00A1E0?style=flat-square&logo=mulesoft&logoColor=white)
+![DataWeave](https://img.shields.io/badge/DataWeave-Transformation-yellow?style=flat-square)
+![REST API](https://img.shields.io/badge/REST_API-Integration-red?style=flat-square)
 
----
+**Tools & Practices:**
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-Project_Mgmt-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-### 🚀 Tech Stack  
+### 🏆 Certifications
+* **Salesforce Certified Platform Developer I (PD1)**
+* **Salesforce Agentforce Specialist**
+* **Salesforce Certified Administrator**
 
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)  
-![Apex](https://img.shields.io/badge/Apex-1797C0?style=for-the-badge&logo=salesforce&logoColor=white)  
-![LWC](https://img.shields.io/badge/LWC-0176D3?style=for-the-badge&logo=salesforce&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saim_Munir-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saim-munir/)
+[![Email](https://img.shields.io/badge/Email-saimmunir532%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saimmunir532@gmail.com)
 
----
-
-### 🎯 Beyond Code:
-Apart from Salesforce, I have a **keen interest in chess, politics, and business**. I also enjoy analyzing **strategic TV shows** related to psychology, finance, and leadership.  
-
-In my free time, you’ll find me playing **competitive FPS & open-world games** like GTA, Valorant, CS, COD, and Doom.  
-
----
-
-### 📫 Let's Connect!  
-
-💼 <a href="https://www.linkedin.com/in/saim-munir/" target="_blank">LinkedIn</a>  📧 [Email](mailto:saimmunir532@gmail.com)  🌐 [Portfolio](https://www.figma.com/proto/6R2yMfvfn2py5l3amstHSC/Saim-Munir-Salesforce-Portfolio?page-id=0%3A1&node-id=8-35489&p=f&viewport=962%2C1037%2C0.13&t=I73axZxGdqbuM5lW-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=8%3A35489)  
-
---- 
-
-🔹 *Let's build something amazing together!* 🚀  
+<br />
